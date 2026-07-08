@@ -76,7 +76,7 @@ road-crash-insights-dashboard/
   Mantel-Haenszel test, logistic regression, Gower distance clustering
 
 ## Dashboard Preview
-(dashboard/Dashboard Preview.png)
+![Road Crash Overview Dashboard](dashboard/Dashboard_preview.png)
 
 ## Note on Viewing the Dashboard
 
