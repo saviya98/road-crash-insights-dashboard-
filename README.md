@@ -75,6 +75,9 @@ road-crash-insights-dashboard/
 - **Statistical methods** - Pearson correlation, Chi-Squared test,
   Mantel-Haenszel test, logistic regression, Gower distance clustering
 
+## Dashboard Preview
+(dashboard/Dashboard Preview.png)
+
 ## Note on Viewing the Dashboard
 
 GitHub cannot render `.pbix` files in the browser. To view the dashboard,
