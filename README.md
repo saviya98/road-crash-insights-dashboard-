@@ -5,6 +5,9 @@ dataset to identify the conditions that most increase the risk of a crash being
 fatal or severe, and to translate those findings into a decision-support
 dashboard for city planners, police, and public safety analysts.
 
+## Dashboard Preview
+![Road Crash Overview Dashboard](https://github.com/saviya98/road-crash-insights-dashboard-/blob/main/dashboard/Dashboard%20Preview.png)
+
 ## Business Problem
 
 City authorities face ongoing pressure to reduce road deaths and serious
@@ -75,8 +78,6 @@ road-crash-insights-dashboard/
 - **Statistical methods** - Pearson correlation, Chi-Squared test,
   Mantel-Haenszel test, logistic regression, Gower distance clustering
 
-## Dashboard Preview
-![Road Crash Overview Dashboard](https://github.com/saviya98/road-crash-insights-dashboard-/blob/main/dashboard/Dashboard%20Preview.png)
 
 ## Note on Viewing the Dashboard
 
